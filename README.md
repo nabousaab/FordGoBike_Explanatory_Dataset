@@ -2,6 +2,7 @@
 ## I have chosen to work on the FordGoBike dataset. 
 ## And for this reason I will need to upload the data into Jupytor notebook to start exploration and explanation process.
 
+## Oridiginal dataset (fordgobie):[http://localhost:8891/edit/201902-fordgobike-tripdata.csv]
 
 # Gathering Dataset
 ## Software to import and use.
