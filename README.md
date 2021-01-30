@@ -1,4 +1,4 @@
-# Explanatory_Da
+# Explanatory_Dataset
 ## I have chosen to work on the FordGoBike dataset. 
 ## And for this reason I will need to upload the data into Jupytor notebook to start exploration and explanation process.
 
