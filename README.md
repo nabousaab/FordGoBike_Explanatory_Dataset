@@ -2,7 +2,7 @@
 ## I have chosen to work on the FordGoBike dataset. 
 ## And for this reason I will need to upload the data into Jupytor notebook to start exploration and explanation process.
 
-## Oridiginal dataset [fordgobike](http://localhost:8891/edit/201902-fordgobike-tripdata.csv)
+## Oridiginal dataset [fordgobike](http://localhost:8891/edit/201902-fordgobike-tripdata.csv) 201902-fordgobike-tripdata.csv
 
 # Gathering Dataset
 ## Software to import and use.
@@ -22,7 +22,11 @@ import seaborn as sb
  - We have a lot of empty rows that I do recommend to drop them
  - We should also drop the columns that have no value to our exploratory and explanatory plotting.
  
- 
+
+
+# The main task is to be able to draw a univariate and bivariate plots than can provide more information on the relationship between variables.
+ - How does one or many categorical variables effect each other 
+
 ## How does the Dataset Structure ?
 - The data we are evaluating is for FordGoBike 2019, 
 - We have cleaned the data and saved it under a new folder called bikes_clean.
